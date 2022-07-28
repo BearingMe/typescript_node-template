@@ -1,0 +1,20 @@
+{
+  "name": "express_template",
+  "version": "0.1.0",
+  "description": "base template for express applications",
+  "main": "./index.js",
+  "scripts": {
+    "test": "npx jest --coverage",
+    "dev": "npx nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BearingMe/node__express-template.git"
+  },
+  "keywords": [
+    "template",
+    "express"
+  ],
+  "author": "smith",
+  "license": "MIT"
+}
