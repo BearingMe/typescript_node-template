@@ -19,6 +19,10 @@
   "author": "smith",
   "license": "MIT",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
+    "@typescript-eslint/parser": "^5.31.0",
+    "eslint": "^8.20.0",
+    "eslint-plugin-jest": "^26.6.0",
     "jest": "^28.1.3",
     "nodemon": "^2.0.19",
     "tsc": "^2.0.4",
