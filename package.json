@@ -1,7 +1,7 @@
 {
-  "name": "express_template",
+  "name": "typescript_blank_template",
   "version": "0.1.0",
-  "description": "base template for express applications",
+  "description": "base template for typescript applications",
   "main": "./dist/app.js",
   "scripts": {
     "test": "npx jest --coverage",
@@ -14,7 +14,7 @@
   },
   "keywords": [
     "template",
-    "express"
+    "typescript"
   ],
   "author": "smith",
   "license": "MIT",
